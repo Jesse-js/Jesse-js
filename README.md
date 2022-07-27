@@ -1,23 +1,21 @@
 ### Olá! Eu sou o Jessé👋
 
 
-**Jesse-js/Jesse-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sou um dev que ama novos desafios!
 
-Here are some ideas to get you started:
+Dá uma olhadinha rápida na minha experiência:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🛠️ Desenvolvimento API's RESTful
+- 📑 Migrações de dados
+- 👾 Análise e resolução de bugs
+- 📊 Desenvolvimento de relatórios
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <div align="center">
-  <a href="https://github.com/Jesse-js">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jesse-js&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-js&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://github.com/Jesse-js"></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jesse-js&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-js&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +26,19 @@ Here are some ideas to get you started:
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="MSSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
-- 📫 How to reach me: ...
+<ul>
+<br>
+  <li> 📫 E aí curtiu?! Então, que tal um networking? </li>
+</ul>
+
 <div style="display: inline_block"><br>
- <a href="mailto:jessejorgejjs@gmail.com"><img align="center" alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/jess%C3%A9-jorge-santana-a6b397194/">
+  <img align="center" alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+  <a href="mailto:jessejorgejjs@gmail.com">
+  <img align="center" alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+ <a href="mailto:jesse-jjs@hotmail.com">
+  <img align="center" alt="gmail"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+ </a>
 </div>
