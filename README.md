@@ -5,7 +5,7 @@
 
 Dá uma olhadinha rápida na minha experiência:
 
-- 🛠️ Desenvolvimento API's RESTful
+- 🛠️ Desenvolvimento de API's RESTful
 - 📑 Migrações de dados
 - 👾 Análise e resolução de bugs
 - 📊 Desenvolvimento de relatórios
