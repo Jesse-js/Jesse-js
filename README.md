@@ -1,6 +1,7 @@
 ### Hello! I'm Jessé👋
 ##
 I'm a developer who loves new challenges! 🚀 
+
 Graduated in Computer Science 🤓📚
 
 Take a quick look at my experience:
@@ -31,7 +32,7 @@ Take a quick look at my experience:
 </div>
 <ul>
 <br>
-  <li> 📫 And then did you like it?! So how about networking? </li>
+  <li><b> 📫 And then did you like it?! So how about networking? </b></li>
 </ul>
 
 <div style="display: inline_block"><br>
