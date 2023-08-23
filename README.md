@@ -1,8 +1,6 @@
 ### Hello! I'm Jessé👋
-
-
+##
 I'm a developer who loves new challenges! 🚀 
-
 Graduated in Computer Science 🤓📚
 
 Take a quick look at my experience:
